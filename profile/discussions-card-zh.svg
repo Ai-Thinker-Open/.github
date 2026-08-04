@@ -1,25 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="96" viewBox="0 0 380 96" role="img" aria-label="讨论区">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="70" viewBox="0 0 340 70" role="img" aria-label="讨论区">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1B2A4A"/>
-      <stop offset="1" stop-color="#0F1729"/>
-    </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0B1220" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.4"/>
     </filter>
   </defs>
   <g filter="url(#shadow)">
-    <rect x="1" y="1" width="378" height="94" rx="14" fill="url(#bg)"/>
-    <rect x="1" y="1" width="378" height="94" rx="14" fill="none" stroke="#2E4268" stroke-width="1"/>
+    <rect x="0.5" y="0.5" width="339" height="69" rx="14" fill="#161b22" stroke="#2a313c" stroke-width="1"/>
   </g>
-  <circle cx="48" cy="48" r="18" fill="#0A66C2"/>
-  <rect x="35" y="40" width="26" height="17" rx="4.5" fill="#FFFFFF"/>
-  <path d="M38 57 L33.5 61.5 L38 61.5 Z" fill="#FFFFFF"/>
-  <circle cx="42" cy="48.5" r="1.6" fill="#0A66C2"/>
-  <circle cx="48" cy="48.5" r="1.6" fill="#0A66C2"/>
-  <circle cx="54" cy="48.5" r="1.6" fill="#0A66C2"/>
-  <text x="80" y="46" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="23" font-weight="600" fill="#FFFFFF">讨论区</text>
-  <text x="80" y="68" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="12.5" fill="#9FB3D1">产品使用问题，欢迎交流</text>
-  <rect x="292" y="34" width="68" height="28" rx="14" fill="#0A66C2"/>
-  <text x="326" y="53" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">前往 →</text>
+  <rect x="18" y="16" width="38" height="38" rx="10" fill="#58a6ff" fill-opacity="0.12"/>
+  <g transform="translate(27,25) scale(1.25)" fill="#58a6ff">
+    <path d="M1.5 2.25A1.75 1.75 0 0 1 3.25 0.5h8.5A1.75 1.75 0 0 1 13.5 2.25v5.5A1.75 1.75 0 0 1 11.75 9.5h-1.846c-.473.007-.94.106-1.369.303L5.25 11.25v-1.25H3.25A1.75 1.75 0 0 1 1.5 7.75Zm1.75-.75a.25.25 0 0 0-.25.25v5.5c0 .138.112.25.25.25h2.25v2.194l2.234-1.79a.75.75 0 0 1 .466-.164h2.93a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25Zm7 6a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-.75.75h-2.016l-2.234 1.79a.75.75 0 0 1-1.2-.6v-1.19H3.25a.25.25 0 0 1-.25-.25v-1.5a.75.75 0 0 1 .75-.75Z"></path>
+  </g>
+  <text x="70" y="41" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="600" letter-spacing="-0.15" fill="#e6edf3">讨论区</text>
+  <rect x="258" y="24" width="64" height="22" rx="11" fill="#58a6ff" fill-opacity="0.15" stroke="#58a6ff" stroke-opacity="0.25"/>
+  <text x="290" y="39.5" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="12" font-weight="600" fill="#58a6ff">1</text>
 </svg>

@@ -32,6 +32,4 @@ If you have any questions about using our products, feel free to post them in th
 
 [![Discussions](discussions-card-en.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=Discussions%20count&color=0A66C2&labelColor=24292f&style=flat" alt="Discussions count" />
-
 </div>
