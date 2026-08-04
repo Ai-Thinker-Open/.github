@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="Ai-Thinker.png" alt="Ai-Thinker" width="320" />
+<img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-Open/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
 <br /><br />
 
 <a href="https://github.com/Ai-Thinker-Open/.github/discussions">
