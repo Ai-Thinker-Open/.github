@@ -9,7 +9,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Ai-Thinker-Open/.github/main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
-<br />
+<br /><br />
 
 <a href="https://github.com/Ai-Thinker-Open/.github/discussions">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=Discussions&color=blue&logo=github&logoColor=white" alt="Discussions" />
