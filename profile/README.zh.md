@@ -20,6 +20,17 @@
 <a href="https://github.com/orgs/Ai-Thinker-Open/repositories">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Star%20%E6%95%B0&color=eac54f&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="Star 数" />
 </a>
+<br />
+
+<a href="https://docs.ai-thinker.com/">
+  <img src="https://img.shields.io/badge/-%E6%96%87%E6%A1%A3-1F9E71?style=flat-square" alt="文档" />
+</a>
+<a href="https://space.bilibili.com/507124153">
+  <img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="哔哩哔哩" />
+</a>
+<a href="https://oshwhub.com/ai-thiner_openteam/works">
+  <img src="https://img.shields.io/badge/-%E5%98%89%E7%AB%8B%E5%88%9B%E5%BC%80%E6%BA%90-0A66C2?style=flat-square" alt="嘉立创开源" />
+</a>
 
 </div>
 
