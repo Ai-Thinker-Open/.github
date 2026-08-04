@@ -8,8 +8,8 @@
 *Make IoT development simple — light up every module, fast.*
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-Ai--Thinker--Open-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ai-Thinker-Open)
-[![Repos](https://img.shields.io/badge/Public%20Repos-71+-0A66C2?style=for-the-badge&logo=git&logoColor=white)]()
-[![License](https://img.shields.io/badge/License-MIT-31C653?style=for-the-badge&logo=open-source-initiative&logoColor=white)]()
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=Public%20Repos&color=0A66C2&style=for-the-badge&logo=git&logoColor=white)](https://github.com/orgs/Ai-Thinker-Open/repositories)
+[![License](https://img.shields.io/badge/License-MIT-31C653?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-www.ai--thinker.com-FF6F00?style=for-the-badge&logo=globe&logoColor=white)](https://www.ai-thinker.com)
 [![Location](https://img.shields.io/badge/Location-Shenzhen%2C%20China-FF4D4F?style=for-the-badge&logo=map-pin&logoColor=white)]()
 
@@ -117,11 +117,23 @@ cd <repository>
 
 ---
 
+---
+
+## 💬 问题请教与讨论 · Questions & Discussions
+
+有任何产品上使用的问题都可以在本仓库的讨论区中发布，点击下方卡片快速前往讨论区。
+*If you have any questions about using our products, feel free to post them in this repository's discussion area. Click the card below to go there.*
+
+<div align="center">
+
+[![Discussions](profile/discussions-card-en-v2.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
+
+</div>
 ## 🤝 参与贡献 · Contributing
 
 我们非常欢迎社区参与共建：
 
-- 使用中遇到问题，请到对应仓库提交 [Issue](https://github.com/Ai-Thinker-Open/Ai-Thinker-Open/issues)
+- 使用中遇到问题，请到对应仓库提交 [Issue](https://github.com/Ai-Thinker-Open/.github/issues)
 - 有改进或新功能，欢迎提交 Pull Request
 - 编写嵌入式 C 代码时，请遵循仓库内提供的规范与风格
 - 想了解安信可编码规范与常规模组开发 Skills，可查看 [skills](https://github.com/Ai-Thinker-Open/skills) 仓库
