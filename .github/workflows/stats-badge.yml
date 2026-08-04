@@ -44,11 +44,15 @@ jobs:
             '{discussions: $discussions, repos: $repos, stars: $stars}' \
             > profile/badges.json
 
+      - name: Update discussion card SVGs
+        run: |
+          sed -i -E "s|(fill=\"#58a6ff\">)[0-9]+(</text>)|\1${DISCUSSIONS}\2|" profile/discussions-card-en.svg profile/discussions-card-zh.svg
+
       - name: Commit badge update
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/badges.json
+          git add profile/
           if git diff --cached --quiet; then
             echo "No changes to badges"
           else
