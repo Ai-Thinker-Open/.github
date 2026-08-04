@@ -1,4 +1,4 @@
-name: Update discussions badge
+name: Update stats badges
 
 on:
   schedule:
@@ -16,11 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch discussion count
+      - name: Fetch stats
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          COUNT="$(gh api graphql -f query='
+          DISCUSSIONS="$(gh api graphql -f query='
             query {
               repository(owner: "Ai-Thinker-Open", name: ".github") {
                 discussions {
@@ -29,25 +29,29 @@ jobs:
               }
             }
           ' -q .data.repository.discussions.totalCount)"
-          echo "count=$COUNT" >> "$GITHUB_ENV"
+          REPOS="$(gh api /orgs/Ai-Thinker-Open --jq .public_repos)"
+          STARS="$(gh api --paginate "/orgs/Ai-Thinker-Open/repos?per_page=100&type=public" --jq '[.[].stargazers_count] | add // 0')"
+          echo "discussions=$DISCUSSIONS" >> "$GITHUB_ENV"
+          echo "repos=$REPOS" >> "$GITHUB_ENV"
+          echo "stars=$STARS" >> "$GITHUB_ENV"
 
-      - name: Update badge JSON
+      - name: Update badges JSON
         run: |
           jq -n \
-            --arg label "Discussions" \
-            --arg message "${COUNT}" \
-            --arg color "blue" \
-            '{schemaVersion: 1, label: $label, message: $message, color: $color}' \
-            > profile/discussions-badge.json
+            --argjson discussions "${DISCUSSIONS}" \
+            --argjson repos "${REPOS}" \
+            --argjson stars "${STARS}" \
+            '{discussions: $discussions, repos: $repos, stars: $stars}' \
+            > profile/badges.json
 
       - name: Commit badge update
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/discussions-badge.json
+          git add profile/badges.json
           if git diff --cached --quiet; then
-            echo "No changes to badge"
+            echo "No changes to badges"
           else
-            git commit -m "chore: update discussions badge"
+            git commit -m "chore: update stats badges"
             git push
           fi
