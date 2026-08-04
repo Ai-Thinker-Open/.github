@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-0A66C2?labelColor=24292f&style=flat" alt="中文" />
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-0A66C2?labelColor=24292f&style=flat)](https://github.com/Ai-Thinker-Open/.github/blob/main/profile/README.zh.md)
 
 </div>
 

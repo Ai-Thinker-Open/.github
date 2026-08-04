@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://img.shields.io/badge/English-README-0A66C2?labelColor=24292f&style=flat" alt="English" />
+[![English](https://img.shields.io/badge/English-README-0A66C2?labelColor=24292f&style=flat)](https://github.com/Ai-Thinker-Open/.github/blob/main/profile/README.md)
 
 </div>
 
