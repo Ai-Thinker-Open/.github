@@ -46,7 +46,7 @@ jobs:
 
       - name: Update discussion card SVGs
         run: |
-          sed -i -E "s|(fill=\"#58a6ff\">)[0-9]+(</text>)|\1${DISCUSSIONS}\2|" profile/discussions-card-en.svg profile/discussions-card-zh.svg
+          sed -i -E "s|(<text[^>]*>)[0-9]+(</text>)|\1${DISCUSSIONS}\2|" profile/discussions-card-en.svg profile/discussions-card-zh.svg
 
       - name: Commit badge update
         run: |
