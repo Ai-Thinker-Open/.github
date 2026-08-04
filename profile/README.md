@@ -1,7 +1,7 @@
 <div align="left">
 
 <a href="https://github.com/Ai-Thinker-Open/.github/blob/main/profile/README.zh.md">
-  <img src="https://img.shields.io/badge/Chinese-README-blue" alt="Chinese" />
+  <img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-README-0A66C2?labelColor=24292f&style=flat-square" alt="中文" />
 </a>
 
 </div>
@@ -12,13 +12,13 @@
 <br /><br />
 
 <a href="https://github.com/Ai-Thinker-Open/.github/discussions">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=Discussions&color=blue&logo=github&logoColor=white" alt="Discussions" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=Discussions&color=0A66C2&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="Discussions" />
 </a>
 <a href="https://github.com/orgs/Ai-Thinker-Open/repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=Repos&color=blue&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=Repos&color=0A66C2&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="Repos" />
 </a>
 <a href="https://github.com/orgs/Ai-Thinker-Open/repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Stars&color=blue&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Stars&color=eac54f&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="Stars" />
 </a>
 
 </div>

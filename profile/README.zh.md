@@ -1,7 +1,7 @@
 <div align="left">
 
 <a href="https://github.com/Ai-Thinker-Open/.github/blob/main/profile/README.md">
-  <img src="https://img.shields.io/badge/%E8%8B%B1%E6%96%87-README-blue" alt="英文" />
+  <img src="https://img.shields.io/badge/English-README-0A66C2?labelColor=24292f&style=flat-square" alt="English" />
 </a>
 
 </div>
@@ -12,13 +12,13 @@
 <br /><br />
 
 <a href="https://github.com/Ai-Thinker-Open/.github/discussions">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E8%AE%A8%E8%AE%BA&color=blue&logo=github&logoColor=white" alt="讨论" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E8%AE%A8%E8%AE%BA&color=0A66C2&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="讨论" />
 </a>
 <a href="https://github.com/orgs/Ai-Thinker-Open/repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=%E4%BB%93%E5%BA%93&color=blue&logo=github&logoColor=white" alt="仓库" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=%E4%BB%93%E5%BA%93&color=0A66C2&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="仓库" />
 </a>
 <a href="https://github.com/orgs/Ai-Thinker-Open/repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Star%20%E6%95%B0&color=blue&logo=github&logoColor=white" alt="Star 数" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Star%20%E6%95%B0&color=eac54f&labelColor=24292f&style=flat-square&logo=github&logoColor=white" alt="Star 数" />
 </a>
 
 </div>
