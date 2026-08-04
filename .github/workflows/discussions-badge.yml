@@ -1,0 +1,53 @@
+name: Update discussions badge
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  discussion:
+  discussion_comment:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch discussion count
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COUNT="$(gh api graphql -f query='
+            query {
+              repository(owner: "Ai-Thinker-Open", name: ".github") {
+                discussions {
+                  totalCount
+                }
+              }
+            }
+          ' -q .data.repository.discussions.totalCount)"
+          echo "count=$COUNT" >> "$GITHUB_ENV"
+
+      - name: Update badge JSON
+        run: |
+          jq -n \
+            --arg label "讨论" \
+            --arg message "${COUNT} 条" \
+            --arg color "0A66C2" \
+            '{schemaVersion: 1, label: $label, message: $message, color: $color}' \
+            > profile/discussions-badge.json
+
+      - name: Commit badge update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/discussions-badge.json
+          if git diff --cached --quiet; then
+            echo "No changes to badge"
+          else
+            git commit -m "chore: update discussions badge"
+            git push
+          fi
