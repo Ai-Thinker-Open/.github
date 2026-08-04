@@ -34,9 +34,9 @@ jobs:
       - name: Update badge JSON
         run: |
           jq -n \
-            --arg label "讨论" \
-            --arg message "${COUNT} 条" \
-            --arg color "0A66C2" \
+            --arg label "Discussions" \
+            --arg message "${COUNT}" \
+            --arg color "blue" \
             '{schemaVersion: 1, label: $label, message: $message, color: $color}' \
             > profile/discussions-badge.json
 

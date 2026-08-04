@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://github.com/Ai-Thinker-Open/.github/discussions">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fdiscussions-badge.json&style=for-the-badge&logo=github&logoColor=white" alt="进入讨论区" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fdiscussions-badge.json&logo=github&logoColor=white" alt="Discussions" />
 </a>
 
 </div>
