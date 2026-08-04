@@ -30,6 +30,6 @@ If you have any questions about using our products, feel free to post them in th
 
 <div align="center">
 
-[![Discussions](discussions-card-en.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
+[![Discussions](discussions-card-en-v2.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
 
 </div>
