@@ -23,3 +23,15 @@
 安信可科技（Ai-Thinker）总部位于深圳，专注于 AIoT 通信模组的研发与制造，产品覆盖 **Wi-Fi / BLE / LoRaWAN / 雷达 / NB-IoT / GPRS** 等领域。我们坚持开源开放，将芯片原厂 SDK、模组驱动、开发工具与应用示例免费开放给全球开发者。
 
 本组织集中收录安信可官方开源项目，包括模组 SDK 与中间件、SCBB 跨平台通用模块驱动库、FlashKey 烧录调试工具与 MCP/Skills 生态、LoRaWAN 与雷达方案等。
+
+## 问题请教与讨论
+
+有任何产品上使用的问题都可以在本仓库的讨论区中发布。可以点击下方快速前往讨论区。
+
+<div align="center">
+
+[![讨论区](https://img.shields.io/badge/-%E8%AE%A8%E8%AE%BA%E5%8C%BA-0A66C2?style=for-the-badge)](https://github.com/Ai-Thinker-Open/.github/discussions)
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E5%BD%93%E5%89%8D%E8%AE%A8%E8%AE%BA&color=0A66C2&labelColor=24292f&style=flat" alt="当前讨论数" />
+
+</div>
