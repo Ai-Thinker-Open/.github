@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://img.shields.io/badge/English-README-0A66C2?labelColor=24292f&style=flat-square" alt="English" />
+<img src="https://img.shields.io/badge/English-README-0A66C2?labelColor=24292f&style=flat" alt="English" />
 
 </div>
 
@@ -9,12 +9,12 @@
 <img src="https://cdn.jsdelivr.net/gh/Ai-Thinker-Open/.github@main/profile/Ai-Thinker.png" alt="Ai-Thinker" width="320" />
 <br /><br />
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E8%AE%A8%E8%AE%BA&color=0A66C2&labelColor=24292f&style=flat-square" alt="讨论" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=%E4%BB%93%E5%BA%93&color=0A66C2&labelColor=24292f&style=flat-square" alt="仓库" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Star%20%E6%95%B0&color=eac54f&labelColor=24292f&style=flat-square" alt="Star 数" />
-<img src="https://img.shields.io/badge/-%E6%96%87%E6%A1%A3-1F9E71?style=flat-square" alt="文档" />
-<img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FB7299?style=flat-square" alt="哔哩哔哩" />
-<img src="https://img.shields.io/badge/-%E5%98%89%E7%AB%8B%E5%88%9B%E5%BC%80%E6%BA%90-0A66C2?style=flat-square" alt="嘉立创开源" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E8%AE%A8%E8%AE%BA&color=0A66C2&labelColor=24292f&style=flat" alt="讨论" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.repos&label=%E4%BB%93%E5%BA%93&color=0A66C2&labelColor=24292f&style=flat" alt="仓库" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.stars&label=Star%20%E6%95%B0&color=eac54f&labelColor=24292f&style=flat" alt="Star 数" />
+<img src="https://img.shields.io/badge/-%E6%96%87%E6%A1%A3-1F9E71?style=flat" alt="文档" />
+<img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FB7299?style=flat" alt="哔哩哔哩" />
+<img src="https://img.shields.io/badge/-%E5%98%89%E7%AB%8B%E5%88%9B%E5%BC%80%E6%BA%90-0A66C2?style=flat" alt="嘉立创开源" />
 
 </div>
 
