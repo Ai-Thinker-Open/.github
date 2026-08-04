@@ -30,8 +30,8 @@
 
 <div align="center">
 
-[![讨论区](https://img.shields.io/badge/-%E8%AE%A8%E8%AE%BA%E5%8C%BA-0A66C2?style=for-the-badge)](https://github.com/Ai-Thinker-Open/.github/discussions)
+[![讨论区](discussions-card-zh.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E5%BD%93%E5%89%8D%E8%AE%A8%E8%AE%BA&color=0A66C2&labelColor=24292f&style=flat" alt="当前讨论数" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FAi-Thinker-Open%2F.github%2Fmain%2Fprofile%2Fbadges.json&query=%24.discussions&label=%E8%AE%A8%E8%AE%BA%E6%95%B0%E9%87%8F&color=0A66C2&labelColor=24292f&style=flat" alt="讨论数量" />
 
 </div>
