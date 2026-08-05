@@ -30,10 +30,10 @@ jobs:
             }
           ' -q .data.repository.discussions.totalCount)"
           REPOS="$(gh api /orgs/Ai-Thinker-Open --jq .public_repos)"
-          STARS="$(gh api --paginate "/orgs/Ai-Thinker-Open/repos?per_page=100&type=public" --jq '[.[].stargazers_count] | add // 0')"
-          echo "discussions=$DISCUSSIONS" >> "$GITHUB_ENV"
-          echo "repos=$REPOS" >> "$GITHUB_ENV"
-          echo "stars=$STARS" >> "$GITHUB_ENV"
+          STARS="$(gh api --paginate "/orgs/Ai-Thinker-Open/repos?per_page=100&type=public" --jq '[.[].stargazers_count] | add // 0' | awk '{s+=$1} END {print s+0}')"
+          echo "DISCUSSIONS=$DISCUSSIONS" >> "$GITHUB_ENV"
+          echo "REPOS=$REPOS" >> "$GITHUB_ENV"
+          echo "STARS=$STARS" >> "$GITHUB_ENV"
 
       - name: Update badges JSON
         run: |
