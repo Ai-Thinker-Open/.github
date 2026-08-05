@@ -20,7 +20,7 @@
     <path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"/>
   </g>
   <text x="72" y="36" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15.5" font-weight="700" letter-spacing="-0.2" fill="#e6edf3">讨论区</text>
-  <text x="72" y="54" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="12" fill="#8b949e">产品使用问题，欢迎交流</text>
+  <text x="72" y="54" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="12" fill="#8b949e">问题交流、项目分享、教程与心得</text>
   <g filter="url(#pillShadow)">
     <rect x="288" y="25" width="54" height="26" rx="13" fill="url(#brand)"/>
   </g>

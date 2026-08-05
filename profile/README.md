@@ -26,7 +26,7 @@ This organization hosts Ai-Thinker's official open-source projects, including mo
 
 ## Questions & Discussions
 
-If you have any questions about using our products, feel free to post them in this repository's discussion area. Click the card below to go there quickly.
+This area is not limited to questions and discussions — it also supports sharing projects, tutorials, and hands-on tips from your own experience. Click the card below to go there quickly.
 
 <div align="center">
 
