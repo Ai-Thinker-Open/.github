@@ -39,66 +39,9 @@
 这里集中了团队常用的仓库。点击卡片即可跳转。
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px 16px;min-width:300px;text-align:left;margin:12px;">
-          <a href="https://github.com/Ai-Thinker-Open/skills" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">skills</a>
-          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:12px;padding:1px 8px;margin-left:8px;">Public</span>
-          <br/>
-          <span style="color:#8b949e;font-size:13px;line-height:1.6;">安信可官方开发技能库</span>
-          <br/><br/>
-          <span style="color:#8b949e;font-size:12px;">
-            <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#3572A5;"></span> python
-            &nbsp;&nbsp; ⭐ 8
-            &nbsp;&nbsp; 🍴 3
-          </span>
-        </div>
-      </td>
-      <td>
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px 16px;min-width:300px;text-align:left;margin:12px;">
-          <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">Ai-WB2 SDK</a>
-          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:12px;padding:1px 8px;margin-left:8px;">Public</span>
-          <br/>
-          <span style="color:#8b949e;font-size:13px;line-height:1.6;">Ai-WB2 系列模组 SDK（Wi-Fi 4 + BLE 5.0）</span>
-          <br/><br/>
-          <span style="color:#8b949e;font-size:12px;">
-            <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#555555;"></span> C
-            &nbsp;&nbsp; ⭐ 68
-            &nbsp;&nbsp; 🍴 41
-          </span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px 16px;min-width:300px;text-align:left;margin:12px;">
-          <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">安信可中间件</a>
-          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:12px;padding:1px 8px;margin-left:8px;">Public</span>
-          <br/>
-          <span style="color:#8b949e;font-size:13px;line-height:1.6;">安信可开发中间件 SDK</span>
-          <br/><br/>
-          <span style="color:#8b949e;font-size:12px;">
-            <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#555555;"></span> C
-            &nbsp;&nbsp; ⭐ 21
-            &nbsp;&nbsp; 🍴 6
-          </span>
-        </div>
-      </td>
-      <td>
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px 16px;min-width:300px;text-align:left;margin:12px;">
-          <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">SIG Mesh SDK</a>
-          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:12px;padding:1px 8px;margin-left:8px;">Public</span>
-          <br/>
-          <span style="color:#8b949e;font-size:13px;line-height:1.6;">Telink SIG Mesh 组网 SDK</span>
-          <br/><br/>
-          <span style="color:#8b949e;font-size:12px;">
-            <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background-color:#555555;"></span> C
-            &nbsp;&nbsp; ⭐ 104
-            &nbsp;&nbsp; 🍴 45
-          </span>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-zh.svg" alt="skills" width="360" style="margin:8px;" /></a>
+  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-zh.svg" alt="Ai-WB2 SDK" width="360" style="margin:8px;" /></a>
+  <br/>
+  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-zh.svg" alt="安信可中间件" width="360" style="margin:8px;" /></a>
+  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-zh.svg" alt="SIG Mesh SDK" width="360" style="margin:8px;" /></a>
 </div>
