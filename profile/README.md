@@ -43,9 +43,9 @@ Here you can ask questions, join discussions, and share your projects, tutorials
 Here are the frequently used repositories. Click a card to jump to it.
 
 <div align="center">
-  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-en.svg" alt="skills" width="360" style="margin:16px;" /></a>
-  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-en.svg" alt="Ai-WB2 SDK" width="360" style="margin:16px;" /></a>
-  <br/>
-  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-en.svg" alt="Ai-Thinker Middleware" width="360" style="margin:16px;" /></a>
-  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-en.svg" alt="SIG Mesh SDK" width="360" style="margin:16px;" /></a>
+  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-en.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-en.svg" alt="Ai-WB2 SDK" width="360" /></a>
+  <br/><br/>
+  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-en.svg" alt="Ai-Thinker Middleware" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-en.svg" alt="SIG Mesh SDK" width="360" /></a>
 </div>

@@ -39,9 +39,9 @@
 这里集中了团队常用的仓库。点击卡片即可跳转。
 
 <div align="center">
-  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-zh.svg" alt="skills" width="360" style="margin:16px;" /></a>
-  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-zh.svg" alt="Ai-WB2 SDK" width="360" style="margin:16px;" /></a>
-  <br/>
-  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-zh.svg" alt="安信可中间件" width="360" style="margin:16px;" /></a>
-  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-zh.svg" alt="SIG Mesh SDK" width="360" style="margin:16px;" /></a>
+  <a href="https://github.com/Ai-Thinker-Open/skills"><img src="repo-skills-zh.svg" alt="skills" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2"><img src="repo-aiwb2-zh.svg" alt="Ai-WB2 SDK" width="360" /></a>
+  <br/><br/>
+  <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk"><img src="repo-middleware-zh.svg" alt="安信可中间件" width="360" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh"><img src="repo-sigmesh-zh.svg" alt="SIG Mesh SDK" width="360" /></a>
 </div>
