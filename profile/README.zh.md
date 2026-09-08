@@ -41,8 +41,8 @@
 <div align="center">
   <table>
     <tr>
-      <td style="padding:8px;">
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+      <td>
+        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;margin:8px;">
           <a href="https://github.com/Ai-Thinker-Open/skills" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">skills</a>
           <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
           <br/>
@@ -55,8 +55,8 @@
           </span>
         </div>
       </td>
-      <td style="padding:8px;">
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+      <td>
+        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;margin:8px;">
           <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">Ai-WB2 SDK</a>
           <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
           <br/>
@@ -71,8 +71,8 @@
       </td>
     </tr>
     <tr>
-      <td style="padding:8px;">
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+      <td>
+        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;margin:8px;">
           <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">安信可中间件</a>
           <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
           <br/>
@@ -85,8 +85,8 @@
           </span>
         </div>
       </td>
-      <td style="padding:8px;">
-        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+      <td>
+        <div style="display:inline-block;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;margin:8px;">
           <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh" style="color:#58a6ff;font-weight:600;font-size:15px;text-decoration:none;">SIG Mesh SDK</a>
           <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
           <br/>
