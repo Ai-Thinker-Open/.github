@@ -33,3 +33,72 @@
 [![讨论区](discussions-card-zh.svg)](https://github.com/Ai-Thinker-Open/.github/discussions)
 
 </div>
+
+## 推荐仓库
+
+这里集中了团队常用的仓库。点击卡片即可跳转。
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding:8px;">
+        <a href="https://github.com/Ai-Thinker-Open/skills" style="display:inline-block;text-decoration:none;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+          <span style="color:#58a6ff;font-weight:600;font-size:15px;">skills</span>
+          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
+          <br/>
+          <span style="color:#8b949e;font-size:13px;line-height:1.6;">安信可官方开发技能库</span>
+          <br/><br/>
+          <span>
+            <img src="https://img.shields.io/github/languages/top/Ai-Thinker-Open/skills?style=flat-square" alt="语言" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/stars/Ai-Thinker-Open/skills?style=flat-square" alt="star" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/forks/Ai-Thinker-Open/skills?style=flat-square" alt="fork" style="vertical-align:middle;margin-right:8px;" />
+          </span>
+        </a>
+      </td>
+      <td style="padding:8px;">
+        <a href="https://github.com/Ai-Thinker-Open/Ai-Thinker-WB2" style="display:inline-block;text-decoration:none;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+          <span style="color:#58a6ff;font-weight:600;font-size:15px;">Ai-WB2 SDK</span>
+          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
+          <br/>
+          <span style="color:#8b949e;font-size:13px;line-height:1.6;">Ai-WB2 系列模组 SDK（Wi-Fi 4 + BLE 5.0）</span>
+          <br/><br/>
+          <span>
+            <img src="https://img.shields.io/github/languages/top/Ai-Thinker-Open/Ai-Thinker-WB2?style=flat-square" alt="语言" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/stars/Ai-Thinker-Open/Ai-Thinker-WB2?style=flat-square" alt="star" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/forks/Ai-Thinker-Open/Ai-Thinker-WB2?style=flat-square" alt="fork" style="vertical-align:middle;margin-right:8px;" />
+          </span>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:8px;">
+        <a href="https://github.com/Ai-Thinker-Open/aithinker_dev_open_sdk" style="display:inline-block;text-decoration:none;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+          <span style="color:#58a6ff;font-weight:600;font-size:15px;">安信可中间件</span>
+          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
+          <br/>
+          <span style="color:#8b949e;font-size:13px;line-height:1.6;">安信可开发中间件 SDK</span>
+          <br/><br/>
+          <span>
+            <img src="https://img.shields.io/github/languages/top/Ai-Thinker-Open/aithinker_dev_open_sdk?style=flat-square" alt="语言" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/stars/Ai-Thinker-Open/aithinker_dev_open_sdk?style=flat-square" alt="star" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/forks/Ai-Thinker-Open/aithinker_dev_open_sdk?style=flat-square" alt="fork" style="vertical-align:middle;margin-right:8px;" />
+          </span>
+        </a>
+      </td>
+      <td style="padding:8px;">
+        <a href="https://github.com/Ai-Thinker-Open/Telink_SIG_Mesh" style="display:inline-block;text-decoration:none;background-color:#0d1117;border:1px solid #30363d;border-radius:10px;padding:16px 18px;text-align:left;min-width:340px;">
+          <span style="color:#58a6ff;font-weight:600;font-size:15px;">SIG Mesh SDK</span>
+          <span style="border:1px solid #30363d;border-radius:2em;color:#8b949e;font-size:11px;padding:1px 8px;margin-left:8px;">Public</span>
+          <br/>
+          <span style="color:#8b949e;font-size:13px;line-height:1.6;">Telink SIG Mesh 组网 SDK</span>
+          <br/><br/>
+          <span>
+            <img src="https://img.shields.io/github/languages/top/Ai-Thinker-Open/Telink_SIG_Mesh?style=flat-square" alt="语言" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/stars/Ai-Thinker-Open/Telink_SIG_Mesh?style=flat-square" alt="star" style="vertical-align:middle;margin-right:8px;" />
+            <img src="https://img.shields.io/github/forks/Ai-Thinker-Open/Telink_SIG_Mesh?style=flat-square" alt="fork" style="vertical-align:middle;margin-right:8px;" />
+          </span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
