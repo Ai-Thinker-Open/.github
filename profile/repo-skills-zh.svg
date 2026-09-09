@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="96" viewBox="0 0 520 96" role="img" aria-label="skills">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" role="img" aria-label="skills">
   <defs>
     <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#58a6ff"/>
@@ -12,13 +12,13 @@
     </filter>
   </defs>
   <g filter="url(#cardShadow)">
-    <rect x="0.5" y="0.5" width="519" height="95" rx="16" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <rect x="0.5" y="0.5" width="299" height="199" rx="18" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   </g>
-  <text x="22" y="36" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="-0.2" fill="#e6edf3">skills</text>
-  <text x="22" y="62" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8b949e">安信可科技skills，含安信可编码规范，</text>
-  <text x="22" y="80" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#8b949e">含安信可常规模组开发skills</text>
+  <text x="20" y="42" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="-0.2" fill="#e6edf3">skills</text>
+  <text x="20" y="80" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8b949e">安信可科技skills，含安信可编码规范，</text>
+  <text x="20" y="100" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#8b949e">含安信可常规模组开发skills</text>
   <g filter="url(#pillShadow)">
-    <rect x="438" y="34" width="60" height="28" rx="14" fill="url(#brand)"/>
+    <rect x="228" y="26" width="52" height="30" rx="15" fill="url(#brand)"/>
   </g>
-  <text x="468" y="53" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff">8</text>
+  <text x="254" y="46" text-anchor="middle" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13.5" font-weight="700" fill="#ffffff">8</text>
 </svg>
