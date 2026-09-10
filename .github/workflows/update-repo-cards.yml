@@ -18,11 +18,12 @@ jobs:
           fetch-depth: 0
 
       - name: Update star counts via gh CLI
+        # gh 会自动读取 GH_TOKEN / GITHUB_TOKEN，无需 gh auth login；
+        # 若执行 gh auth login，反而会因环境变量中已存在 token 而报错退出。
         run: |
-          gh auth login --with-token <<< "$GITHUB_TOKEN"
           python .github/scripts/update_cards.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
